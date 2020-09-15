@@ -1,4 +1,4 @@
-# Coding for Behavior Analysts
+# Introduction to Coding for Behavior Analysts
 ## David J. Cox, PhD, MSB, BCBA-D
 
 
