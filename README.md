@@ -1,5 +1,6 @@
-# CodingForBehaviorAnalysts
-Book for the associated course (Summer 2021)
+# Coding for Behavior Analysts
+## By David J. Cox, PhD, MSB, BCBA-D
+
 
 This book is the companion text for the graduate course titled "Coding for Behavior Analysts". The course is an introduction to programming in Python for behavior analysts interested in adding coding to their repertoire. It was designed to follow a 12-week format wherein students meet once per week for approximately 3 hours. The associated syllabus can be found [link to be added]. 
 
